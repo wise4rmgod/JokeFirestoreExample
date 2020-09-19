@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "485101586967",
+    "firebase_url": "https://jokefirestoreexample.firebaseio.com",
+    "project_id": "jokefirestoreexample",
+    "storage_bucket": "jokefirestoreexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485101586967:android:46797e6b2c18ba700baa52",
+        "android_client_info": {
+          "package_name": "com.dev.datastoreexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485101586967-6fbajacqbie72om2ubpedsnqbbjrh6rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Q2_g_uAfOyxP9r8BWiS23YwB_-PGR6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485101586967-6fbajacqbie72om2ubpedsnqbbjrh6rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
